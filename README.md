@@ -26,9 +26,6 @@ The project is built with a simple multi-page structure, separating core functio
 
 ---
 
-
----
-
 ## Pages
 
 ### Home (`index.html`)
