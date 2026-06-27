@@ -1,70 +1,43 @@
-\# CHROMATICA
 
+---
 
+## Features
 
-CHROMATICA is a fast and modern color palette generator designed for designers, developers, and creatives who want to create color combinations quickly and efficiently.
+- Instant color palette generation
+- Multiple pages for different workflows (home, palette generator, registration)
+- Responsive and modern UI design
+- Interactive navigation system
+- Integrated multimedia preview elements
+- Modular code structure for scalability
 
+---
 
+## Technologies Used
 
-\---
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Font Awesome (icons)
 
+---
 
+## Pages Overview
 
-\## Overview
+### Home (`index.html`)
+Landing page introducing the project and providing access to the main generator and navigation features.
 
+### Palette Generator (`palette.html`)
+Core functionality of the project where users can generate and interact with color palettes.
 
+### Registration (`registrazione.html`)
+Simple interface for user authentication or registration flow.
 
-CHROMATICA provides an intuitive interface for generating and exploring color palettes. The project focuses on speed, simplicity, and a visually engaging user experience inspired by modern design tools.
+---
 
+## Installation and Usage
 
+To run the project locally:
 
-\---
-
-
-
-\## Features
-
-
-
-\- Fast generation of color palettes
-
-\- Clean and responsive user interface
-
-\- Animated preview of the generator
-
-\- Integrated navigation system with multiple tools
-
-\- Community and external resource sections
-
-\- Support for multimedia preview content
-
-
-
-\---
-
-
-
-\## Technologies Used
-
-
-
-\- HTML5
-
-\- CSS3
-
-\- JavaScript (Vanilla)
-
-\- Font Awesome (icons)
-
-\- Embedded MP4 video for preview
-
-
-
-\---
-
-
-
-\## Project Structure
-
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lorenzotomainoo/CHROMATICA.git
