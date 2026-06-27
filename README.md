@@ -1,43 +1,76 @@
+CHROMATICA
 
----
+CHROMATICA is a modern and fast web application for generating color palettes. It is designed for designers, developers, and creatives who need an efficient tool to create, explore, and manage color combinations through a clean and intuitive interface.
 
-## Features
+Project Structure
+CHROMATICA/
+├── index.html
+├── palette.html
+├── registrazione.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   └── (project images and assets)
+│
+└── script/
+    └── script.js
+Features
+Instant color palette generation
+Multiple pages for different workflows (home, palette generator, registration)
+Responsive and modern UI design
+Interactive navigation system
+Modular code structure for scalability
+Technologies Used
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Font Awesome (icons)
+Pages Overview
+Home (index.html)
 
-- Instant color palette generation
-- Multiple pages for different workflows (home, palette generator, registration)
-- Responsive and modern UI design
-- Interactive navigation system
-- Integrated multimedia preview elements
-- Modular code structure for scalability
+Landing page that introduces the project and provides access to the main features.
 
----
+Palette Generator (palette.html)
 
-## Technologies Used
+Main tool of the application where users can generate and manage color palettes.
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- Font Awesome (icons)
+Registration (registrazione.html)
 
----
+Page dedicated to user registration or login interface.
 
-## Pages Overview
-
-### Home (`index.html`)
-Landing page introducing the project and providing access to the main generator and navigation features.
-
-### Palette Generator (`palette.html`)
-Core functionality of the project where users can generate and interact with color palettes.
-
-### Registration (`registrazione.html`)
-Simple interface for user authentication or registration flow.
-
----
-
-## Installation and Usage
+Installation and Usage
 
 To run the project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/lorenzotomainoo/CHROMATICA.git
+git clone https://github.com/lorenzotomainoo/CHROMATICA.git
+cd CHROMATICA
+
+Then open:
+
+index.html
+
+in your browser.
+
+No additional dependencies are required.
+
+GitHub Commands
+
+To update the repository:
+
+git add .
+git commit -m "Update project"
+git push origin main
+Purpose
+
+CHROMATICA aims to provide a fast, lightweight, and visually appealing tool for generating color palettes, inspired by modern design systems and creative platforms.
+
+Author
+
+Lorenzo Tomaino
+From one creative to all others.
+
+License
+
+This project is intended for educational and personal use.
