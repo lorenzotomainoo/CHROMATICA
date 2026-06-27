@@ -50,4 +50,4 @@ Navigate to the project directory:
 ```bash
 cd CHROMATICA
 ```
-open (`index.html`) in your browser.
+open `index.html` in your browser.
