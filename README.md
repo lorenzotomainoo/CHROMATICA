@@ -6,7 +6,7 @@ The project is built with a simple multi-page structure, separating core functio
 
 ---
 
-## Features
+## Feature
 
 - Instant color palette generation  
 - Modern and clean UI design  
